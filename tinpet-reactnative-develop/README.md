@@ -1,0 +1,9 @@
+installed library:
+- axios
+- react-navigation
+- react-navigation/bottom-tabs
+- react-navigation/stack
+- react-native-vector-icons
+- redux
+- react-redux
+- redux-saga
